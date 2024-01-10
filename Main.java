@@ -7,7 +7,7 @@ package main;
 
 /**
  *
- * @author nils.eitel
+ * 
  */
 public class Main {
 
